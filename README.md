@@ -29,7 +29,7 @@ Edit **config.py** with your own values
 
 # Run Directly
 ```sh
-$ python3 -m spr
+$ python3 -m SpamprotectShineka
 ```
 
 
