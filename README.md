@@ -48,8 +48,8 @@ $ cd ShinekaSpamProtectionBot
 Edit **config.env** With Own Values.
 
 ```sh
-$ sudo docker build . -t spr
+$ sudo docker build . -t SpamprotectShineka
 
-$ sudo docker run spr
+$ sudo docker run SpamprotectShineka
 ```
 
