@@ -7,7 +7,7 @@ from SpamprotectShineka import SUDOERS, arq, SpamprotectShineka
 from SpamprotectShineka.utils.db import (disable_nsfw, disable_spam, enable_nsfw,
                           enable_spam, is_nsfw_enabled,
                           is_spam_enabled)
-from spr.utils.misc import admins, get_file_id
+from SpamprotectShineka.utils.misc import admins, get_file_id
 
 __MODULE__ = "Manage"
 __HELP__ = """
