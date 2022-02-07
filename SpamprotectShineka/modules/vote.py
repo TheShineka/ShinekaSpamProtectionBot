@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import CallbackQuery
 
-from SpamprotectShineka import NSFW_LOG_CHANNEL, SPAM_LOG_CHANNEL, SUDOERS, spr
+from SpamprotectShineka import NSFW_LOG_CHANNEL, SPAM_LOG_CHANNEL, SUDOERS, SpamprotectShineka
 from SpamprotectShineka.core import ikb
 from SpamprotectShineka.utils.db import downvote, ignore_nsfw, upvote, user_voted
 from SpamprotectShineka.utils.misc import clean, get_file_unique_id
