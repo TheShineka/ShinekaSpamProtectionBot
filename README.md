@@ -32,9 +32,12 @@ Edit **config.py** with your own values
 $ python3 -m spr
 ```
 
+
 # Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheShineka/ShinekaSpamProtectionBot\)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheShineka/ShinekaSpamProtectionBot/)
+
+
 
 ```sh
 $ git clone https://github.com/TheShineka/ShinekaSpamProtectionBot
